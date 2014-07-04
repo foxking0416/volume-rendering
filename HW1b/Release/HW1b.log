@@ -1,0 +1,102 @@
+﻿已經開始建置於 2013/10/6 下午 05:04:46。
+     1>節點 2 (build 目標) 上的專案 "D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\HW1b\HW1b.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\HW1b.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\HW1b.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HW1b.cpp
+         HW1b.cpp
+     1>HW1b.cpp(49): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(73): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(73): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(73): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(80): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(131): warning C4018: '<=' : signed/unsigned 不相符
+     1>HW1b.cpp(160): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(170): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(177): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(189): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(233): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(249): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(250): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(251): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(263): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(281): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(282): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(283): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(298): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(316): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(330): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(331): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(332): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(344): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(358): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(359): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(360): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(372): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(386): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(387): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(388): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(395): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(407): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(421): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(422): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(423): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(437): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(448): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(449): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(450): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(464): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(475): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(476): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(477): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(517): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(528): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(529): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(530): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(535): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(546): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(547): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>HW1b.cpp(586): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(587): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(627): warning C4244: '正在初始化' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(753): warning C4244: '=' : 將 'float' 轉換為 'ebmpBYTE'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(754): warning C4244: '=' : 將 'float' 轉換為 'ebmpBYTE'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(755): warning C4244: '=' : 將 'float' 轉換為 'ebmpBYTE'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(35): warning C4101: 'tall' : 未參考的區域變數
+     1>HW1b.cpp(37): warning C4101: 'radius' : 未參考的區域變數
+     1>HW1b.cpp(89): warning C4101: 'c' : 未參考的區域變數
+     1>HW1b.cpp(35): warning C4101: 'wide' : 未參考的區域變數
+     1>HW1b.cpp(35): warning C4101: 'deep' : 未參考的區域變數
+     1>HW1b.cpp(792): warning C4018: '<' : signed/unsigned 不相符
+     1>HW1b.cpp(807): warning C4172: 傳回區域變數或暫存的位址
+     1>HW1b.cpp(903): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(904): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(905): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(940): warning C4244: '正在初始化' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1019): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1020): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1021): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1100): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1104): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1105): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>HW1b.cpp(1153): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(533) : 請參閱 'wcstombs' 的宣告
+     1>HW1b.cpp(1164): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(498) : 請參閱 'mbstowcs' 的宣告
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\Release\HW1b.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HW1b.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\Release\HW1b.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\Release\HW1b.lib" /MACHINE:X86 Release\EasyBMP.obj
+         Release\HW1b.obj
+         Release\perlin.obj
+         Release\stdafx.obj
+         HW1b.vcxproj -> D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\Release\HW1b.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\Release\HW1b.exe;#1" /manifest Release\HW1b.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\HW1b.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\HW1b.lastbuildstate"。
+     1>專案 "D:\Code\C++\2010\Computer Graphic\Wei-Chien_Tu_HW2\HW1b\HW1b.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.00
