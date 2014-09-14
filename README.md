@@ -7,7 +7,7 @@ volume-rendering
 		Amplitude = 1.0
 		Frequency = 0.05
 		Seed = 3
-		
+	![ResultImage](Image1_Oct_6_Amp_1_Freq_0.05_Seed_3_wo_tri.bmp)
 2). image2: For comparing the effect of splatting the density to neighbor voxels.		
 		single color, pos@(200, 0, 0) RGB=(1, 1, 1)
 		radius = 20
